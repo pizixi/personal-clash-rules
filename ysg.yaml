@@ -1,8 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,fonts.googleapis.com
-  - DOMAIN-SUFFIX,fonts.gstatic.com
-  - DOMAIN,mail.google.com
-  - DOMAIN-SUFFIX,openai.com
-  - SRC-IP-CIDR,192.168.1.51/32
-  - DOMAIN,imap-mail.outlook.com
+  - '+.fonts.googleapis.com'
+  - '+.fonts.gstatic.com'
+  - 'mail.google.com'
+  - '+.openai.com'
+  - 'imap-mail.outlook.com'
   - PROCESS-NAME,thunderbird.exe

@@ -1,10 +1,10 @@
 payload:
-  - DOMAIN-SUFFIX,gstatic.cn
-  - DOMAIN-SUFFIX,recaptcha.net
-  - DOMAIN-SUFFIX,poe.com
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,google.com
+  - '+.gstatic.cn'
+  - '+.recaptcha.net'
+  - '+.poe.com'
+  - '+.claude.ai'
+  - '+.anthropic.com'
+  - '+.google.com'
   - PROCESS-NAME,go-proxy-bingai.exe
-  - DOMAIN-SUFFIX,bing.com
+  - '+.bing.com'
   - PROCESS-NAME,BingGPT.exe
