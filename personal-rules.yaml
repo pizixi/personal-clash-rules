@@ -1,0 +1,40 @@
+payload:
+ # ---个人自定义------------
+ - PROCESS-NAME,WeChat.exe,DIRECT
+ - PROCESS-NAME,npc.exe,DIRECT
+ - DOMAIN-SUFFIX,iim.ink,🔰 节点选择
+ - DOMAIN-SUFFIX,api.chatanywhere.cn,🔰 节点选择
+ - DOMAIN-SUFFIX,fonts.googleapis.com,🌍 新加坡节点
+ - DOMAIN-SUFFIX,fonts.gstatic.com,🌍 新加坡节点
+ - DOMAIN,mail.google.com,🌍 新加坡节点
+ - DOMAIN-SUFFIX,yancc.site,DIRECT,no-resolve
+ - DOMAIN-SUFFIX,kelele.asia,DIRECT,no-resolve
+ # ---poe---
+ - DOMAIN-SUFFIX,gstatic.cn,🌐 英美节点
+ - DOMAIN-SUFFIX,recaptcha.net,🌐 英美节点
+ - DOMAIN-SUFFIX,poe.com,🌐 英美节点
+ # ---poe---
+ # ---claude---
+ - DOMAIN-SUFFIX,claude.ai,🌐 英美节点
+ - DOMAIN-SUFFIX,anthropic.com,🌐 英美节点
+ - DOMAIN-SUFFIX,google.com,🌐 英美节点
+ # ---claude---
+ - PROCESS-NAME,go-proxy-bingai.exe,🌐 英美节点
+ - DOMAIN-SUFFIX,bing.com,🌐 英美节点
+ - PROCESS-NAME,BingGPT.exe,🌐 英美节点
+ - DOMAIN-SUFFIX,openai.com,🌍 新加坡节点
+ - SRC-IP-CIDR,192.168.1.51/32,🌍 新加坡节点
+ - DOMAIN,imap-mail.outlook.com,🌍 新加坡节点
+ - PROCESS-NAME,thunderbird.exe,🌍 新加坡节点
+ # ---个人自定义------------
+ # 这些是网友自定义规则，想要的可以继续加。
+ - DOMAIN-SUFFIX,cnki.net,DIRECT
+ - DOMAIN-SUFFIX,ieee.org,DIRECT
+ - DOMAIN-SUFFIX,acm.org,DIRECT
+ - DOMAIN-SUFFIX,imgtu.com,DIRECT
+ - DOMAIN-SUFFIX,dpdk.org,DIRECT
+#  - DOMAIN-SUFFIX,freenom.com,DIRECT
+ - DOMAIN-SUFFIX,sciencedirect.com,DIRECT
+ - DOMAIN-SUFFIX,springer.com,DIRECT
+ - DOMAIN,clash.razord.top,DIRECT
+ - DOMAIN,yacd.haishan.me,DIRECT
