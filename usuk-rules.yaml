@@ -1,0 +1,14 @@
+payload:
+ # ---个人自定义------------
+ - DOMAIN-SUFFIX,gstatic.cn
+ - DOMAIN-SUFFIX,recaptcha.net
+ - DOMAIN-SUFFIX,poe.com
+ # ---poe---
+ # ---claude---
+ - DOMAIN-SUFFIX,claude.ai
+ - DOMAIN-SUFFIX,anthropic.com
+ - DOMAIN-SUFFIX,google.com
+ # ---claude---
+ - PROCESS-NAME,go-proxy-bingai.exe
+ - DOMAIN-SUFFIX,bing.com
+ - PROCESS-NAME,BingGPT.exe

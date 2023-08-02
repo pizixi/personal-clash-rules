@@ -1,0 +1,17 @@
+payload:
+ # ---个人自定义------------
+ - PROCESS-NAME,WeChat.exe
+ - PROCESS-NAME,npc.exe
+ - DOMAIN-SUFFIX,yancc.site
+ - DOMAIN-SUFFIX,kelele.asia
+ # 这些是网友自定义规则，想要的可以继续加。
+ - DOMAIN-SUFFIX,cnki.net
+ - DOMAIN-SUFFIX,ieee.org
+ - DOMAIN-SUFFIX,acm.org
+ - DOMAIN-SUFFIX,imgtu.com
+ - DOMAIN-SUFFIX,dpdk.org
+#  - DOMAIN-SUFFIX,freenom.com
+ - DOMAIN-SUFFIX,sciencedirect.com
+ - DOMAIN-SUFFIX,springer.com
+ - DOMAIN,clash.razord.top
+ - DOMAIN,yacd.haishan.me
