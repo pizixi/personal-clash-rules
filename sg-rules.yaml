@@ -1,9 +1,9 @@
+---
 payload:
- # ---个人自定义------------
- - DOMAIN-SUFFIX,fonts.googleapis.com
- - DOMAIN-SUFFIX,fonts.gstatic.com
- - DOMAIN,mail.google.com
- - DOMAIN-SUFFIX,openai.com
- - SRC-IP-CIDR,192.168.1.51/32
- - DOMAIN,imap-mail.outlook.com
- - PROCESS-NAME,thunderbird.exe
+  - DOMAIN-SUFFIX,fonts.googleapis.com
+  - DOMAIN-SUFFIX,fonts.gstatic.com
+  - DOMAIN,mail.google.com
+  - DOMAIN-SUFFIX,openai.com
+  - SRC-IP-CIDR,192.168.1.51/32
+  - DOMAIN,imap-mail.outlook.com
+  - PROCESS-NAME,thunderbird.exe
