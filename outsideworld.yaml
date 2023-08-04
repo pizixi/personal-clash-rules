@@ -14,4 +14,3 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - PROCESS-NAME,BingGPT.exe
   - DOMAIN-SUFFIX,openai.com
-  - PROCESS-NAME,claude-to-chatgpt.exe
