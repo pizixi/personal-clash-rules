@@ -1,7 +1,0 @@
-payload:
-  - '+.fonts.googleapis.com'
-  - '+.fonts.gstatic.com'
-  - 'mail.google.com'
-  - '+.openai.com'
-  - 'imap-mail.outlook.com'
-  - PROCESS-NAME,thunderbird.exe
