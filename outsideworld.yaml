@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,fonts.gstatic.com
   - DOMAIN-SUFFIX,www.googletagmanager.com
   - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,www.google-analytics.com
   # ---poe---
   - DOMAIN-SUFFIX,gstatic.cn
   - DOMAIN-SUFFIX,recaptcha.net
