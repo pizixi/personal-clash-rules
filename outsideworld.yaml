@@ -1,6 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,fonts.googleapis.com
   - DOMAIN-SUFFIX,fonts.gstatic.com
+  - DOMAIN-SUFFIX,www.googletagmanager.com
+  - DOMAIN-SUFFIX,googlesyndication.com
   # ---poe---
   - DOMAIN-SUFFIX,gstatic.cn
   - DOMAIN-SUFFIX,recaptcha.net
