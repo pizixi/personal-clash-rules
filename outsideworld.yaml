@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,fonts.googleapis.com
+  - DOMAIN-SUFFIX,fonts.gstatic.com
   # ---poe---
   - DOMAIN-SUFFIX,gstatic.cn
   - DOMAIN-SUFFIX,recaptcha.net
