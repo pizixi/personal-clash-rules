@@ -15,4 +15,3 @@ payload:
   - PROCESS-NAME,BingGPT.exe
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,wrtn.ai
-  - DOMAIN-SUFFIX,oncetalk.com
