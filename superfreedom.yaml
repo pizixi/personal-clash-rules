@@ -3,4 +3,4 @@ payload:
   - DOMAIN-SUFFIX,api.chatanywhere.cn
   - DOMAIN-SUFFIX,api.super-api.cn
   #- DOMAIN-SUFFIX,workergpt.cn
-  - PROCESS-NAME,DriverTalent.exe
+  #- PROCESS-NAME,DriverTalent.exe
