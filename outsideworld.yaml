@@ -1,18 +1,1 @@
 payload:
-  - DOMAIN-SUFFIX,fonts.googleapis.com
-  - DOMAIN-SUFFIX,fonts.gstatic.com
-  # ---poe---
-  - DOMAIN-SUFFIX,gstatic.cn
-  - DOMAIN-SUFFIX,recaptcha.net
-  - DOMAIN-SUFFIX,poe.com
-  # ---poe---
-  # ---claude---
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,google.com
-  # ---claude---
-  - DOMAIN-SUFFIX,bing.com
-  - PROCESS-NAME,BingGPT.exe
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,wrtn.ai
-  - DOMAIN-SUFFIX,copilot.microsoft.com
