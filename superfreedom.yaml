@@ -19,7 +19,6 @@ payload:
   # ---claude---
   - DOMAIN-SUFFIX,bing.com
   - PROCESS-NAME,BingGPT.exe
-  - PROCESS-NAME,msedgewebview2.exe
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,wrtn.ai
   - DOMAIN-SUFFIX,copilot.microsoft.com
