@@ -4,7 +4,7 @@ payload:
   - DOMAIN-SUFFIX,api.super-api.cn
   #- DOMAIN-SUFFIX,workergpt.cn
   #- PROCESS-NAME,DriverTalent.exe
-  - DOMAIN-SUFFIX,coze.com
+  #- DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,fonts.googleapis.com
   - DOMAIN-SUFFIX,fonts.gstatic.com
   # ---poe---
