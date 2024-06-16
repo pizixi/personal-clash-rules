@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,chmlfrp.cn
   # 阿里网盘 api.tickstep.com
   - DOMAIN-SUFFIX,tickstep.com
+  - PROCESS-NAME,aliyunpan.exe
