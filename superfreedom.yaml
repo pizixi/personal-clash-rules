@@ -21,3 +21,4 @@ payload:
   - PROCESS-NAME,BingGPT.exe
   - DOMAIN-SUFFIX,wrtn.ai
   - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,ipleak.net
