@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".cn",
+        "eu.org"
+      ]
+    },
+    {
+      "process_name": [
+        "aliyunpan.exe"
+      ]
+    }
+  ]
+}
