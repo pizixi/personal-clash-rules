@@ -15,3 +15,6 @@ payload:
   # 阿里网盘 api.tickstep.com
   - DOMAIN-SUFFIX,tickstep.com
   - PROCESS-NAME,aliyunpan.exe
+  # 苏滁
+  - DOMAIN-SUFFIX,scwywxzj.com
+
