@@ -21,6 +21,9 @@ payload:
   - PROCESS-NAME,wxbot.exe
   # 苏滁
   - DOMAIN-SUFFIX,scwywxzj.com
+  # 个人域名
   - DOMAIN-SUFFIX,55789.xyz
   - DOMAIN-SUFFIX,788766.xyz
+  # openfrp
+  - DOMAIN-SUFFIX,ofalias.net
 
