@@ -26,4 +26,6 @@ payload:
   - DOMAIN-SUFFIX,788766.xyz
   # openfrp
   - DOMAIN-SUFFIX,ofalias.net
+  # open frp 验证码
+  - DOMAIN-SUFFIX,naids.com
 
