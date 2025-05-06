@@ -33,4 +33,5 @@ payload:
   # 七喜图床、免费图床
   - DOMAIN-SUFFIX,7up.pics
   - DOMAIN-SUFFIX,postimages.org
+  - DOMAIN-SUFFIX,p.sda1.dev
 
