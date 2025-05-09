@@ -31,9 +31,9 @@ payload:
   # 幼儿园社区体检
   - DOMAIN-SUFFIX,0551cx.com
   # 七喜图床、免费图床
-  - DOMAIN-SUFFIX,7up.pics
-  - DOMAIN-SUFFIX,postimages.org
-  - DOMAIN-SUFFIX,p.sda1.dev
-  - DOMAIN-SUFFIX,tc.mofashi.ltd
+  # - DOMAIN-SUFFIX,7up.pics
+  # - DOMAIN-SUFFIX,postimages.org
+  # - DOMAIN-SUFFIX,p.sda1.dev
+  # - DOMAIN-SUFFIX,tc.mofashi.ltd
 
 
