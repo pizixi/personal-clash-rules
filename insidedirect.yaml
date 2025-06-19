@@ -35,5 +35,7 @@ payload:
   # - DOMAIN-SUFFIX,postimages.org
   # - DOMAIN-SUFFIX,p.sda1.dev
   # - DOMAIN-SUFFIX,tc.mofashi.ltd
+  # 物业
+  - DOMAIN_SUFFIX,czzhwy.com
 
 
