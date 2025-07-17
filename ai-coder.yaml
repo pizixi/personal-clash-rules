@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,augment-assets.com
   # kiro.dev
   - DOMAIN-SUFFIX,kiro.dev
+  - DOMAIN-SUFFIX,amazonaws.com
