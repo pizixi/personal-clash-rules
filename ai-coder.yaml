@@ -22,3 +22,5 @@ payload:
   # AugmentCode
   - DOMAIN-SUFFIX,augmentcode.com
   - DOMAIN-SUFFIX,augment-assets.com
+  # kiro.dev
+  - DOMAIN-SUFFIX,kiro.dev
