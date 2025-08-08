@@ -25,3 +25,6 @@ payload:
   # kiro.dev
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,amazonaws.com
+  # warp.dev
+  - DOMAIN-SUFFIX,warp.dev
+
