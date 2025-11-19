@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,cfjcm.com
   # 好梯子
   - DOMAIN-SUFFIX,xin.students.xin
+  - DOMAIN-SUFFIX,api.letsencrypt.org
 
 
 
