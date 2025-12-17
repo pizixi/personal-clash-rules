@@ -41,6 +41,8 @@ payload:
   # 好梯子
   - DOMAIN-SUFFIX,xin.students.xin
   - DOMAIN-SUFFIX,api.letsencrypt.org
+  # 谷歌中国
+  - DOMAIN-SUFFIX,golang.google.cn
 
 
 
