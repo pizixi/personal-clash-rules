@@ -23,6 +23,8 @@ payload:
   - DOMAIN-SUFFIX,scwywxzj.com
   # 个人域名
   #- DOMAIN-SUFFIX,788766.xyz
+  - DOMAIN-SUFFIX,api.yancc.site
+  - DOMAIN-SUFFIX,xy.788766.xyz
   # openfrp
   - DOMAIN-SUFFIX,ofalias.net
   # open frp 验证码
